@@ -77,6 +77,7 @@ namespace KHSave.SaveEditor.Ff7Remake.Data
             new Location(8, false, "Sector 5 Slums: Aerith's house roof", 2282.001, 23048.63, 1634.191),
             new Location(8, false, "Sector 5 Slums: Aerith's garden", 1094.311, 25737.78, 1080.449),
             new Location(8, false, "Sector 6 Slums: Gate", 67969.91, -35484.38, 127.1474),
+            new Location(9, false, "Coliseum Battle Doors", 44231.576, 1744.123, -6116),
             new Location(10, false, "Sewers: Beginning", -275.946, 26.4429, -50),
             new Location(11, false, "Train Graveyard: Beginning", -50452.12, 41068.95, 16.79639),
             new Location(15, false, "Sector 7 Plate: Beginning", -189.5129, 3905.749, -30.82977),
